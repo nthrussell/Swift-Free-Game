@@ -167,7 +167,6 @@
 				TargetAttributes = {
 					FD3C28811BD1A37800B5CEA7 = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = 2W6A8S8KPQ;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -344,7 +343,7 @@
 				"CODE_SIGN_IDENTITY[sdk=*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2W6A8S8KPQ;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Hot Circle/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -364,7 +363,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: minhajul russel (ZQR2DJGUMV)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2W6A8S8KPQ;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Hot Circle/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
